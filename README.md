@@ -66,6 +66,5 @@ The dataset contains images of bananas categorized into:
 ## 📝 Acknowledgments
 
 - Dataset credits to the original author on Kaggle.  
-- Feel free to reuse and modify this project for learning and portfolio purposes.  
-- If you use this project, consider giving it a ⭐ on GitHub!
+- Feel free to reuse and modify this project for learning and portfolio purposes
 
