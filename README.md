@@ -69,5 +69,3 @@ The dataset contains images of bananas categorized into:
 - Feel free to reuse and modify this project for learning and portfolio purposes.  
 - If you use this project, consider giving it a ⭐ on GitHub!
 
-
-✨ *Happy Coding & Keep Building Awesome ML Projects!* 🚀
