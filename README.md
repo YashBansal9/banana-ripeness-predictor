@@ -1,5 +1,8 @@
 # 🍌 Banana Ripeness Predictor
 
+🚀 **Live Demo:**  
+👉 [Banana Ripeness Predictor App](https://banana-ripeness-predictor-knkgrnt824hzetdgdbsun4.streamlit.app/)
+
 This project predicts the ripeness stage of a banana — **Unripe, Ripe, Overripe, or Rotten** — using a **Convolutional Neural Network (CNN)** trained on image data.  
 It also includes a **Streamlit web app** for easy testing and visualization.
 
